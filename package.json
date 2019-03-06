@@ -1,0 +1,25 @@
+{
+  "name": "webpack-router-history-plugin",
+  "author": {
+    "name": "xian"
+  },
+  "bugs": {
+    "url": "https://github.com/woshilaoge/webpack-router-history-plugin/issues"
+  },
+  "deprecated": false,
+  "description": "A webpack plugin use router history",
+  "homepage": "https://github.com/woshilaoge/webpack-router-history-plugin",
+  "keywords": [
+    "webpack-router-history-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woshilaoge/webpack-router-history-plugin.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
